@@ -1,7 +1,9 @@
 ---@meta
 
+--[[
 ---@class utils.Util
 local M = {}
+]]
 
 ---@class utils.Serialize.Options
 ---@field indent string

@@ -1,4 +1,4 @@
----@class Util
+---@class utils.Util
 local M = {}
 
 -- serialize.lua
