@@ -27,9 +27,9 @@ end
 ---@param opts? snacks.notifier.Notif.opts
 function M.Log(msg, level, opts)
 	if vim.g.debug then
-		M.Log(msg, level, opts)
+		Snacks.notifier.notify(msg, level, opts)
 	else
-		M.Log(msg, "debug", opts)
+		Snacks.notifier.notify(msg, "debug", opts)
 	end
 end
 
