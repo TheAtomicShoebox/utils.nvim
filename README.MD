@@ -16,3 +16,5 @@ I created this code by first just copypasta-ing from an AI, so I warrant nothing
 
 I welcome issues, criticism, and contribution, in the very unlikely scenario someone actually finds this repo and wants to use it.
 Hopefully I'll get around to updating this enough that it will be something interesting.
+
+I will try to follow [this template](https://github.com/ColinKennedy/nvim-best-practices-plugin-template/blob/main) as best as is reasonable
