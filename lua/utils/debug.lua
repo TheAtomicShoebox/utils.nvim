@@ -1,5 +1,4 @@
 ---@class Util
--- @module utils
 local M = {}
 
 -- serialize.lua
